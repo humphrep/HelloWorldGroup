@@ -1,5 +1,4 @@
 Hi
 
-=======
 Hi directly in github!
->>>>>>> d5888a9e0eabff6a94e0e57089364d6e6d56b748
+
